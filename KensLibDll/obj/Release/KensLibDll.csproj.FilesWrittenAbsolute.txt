@@ -1,0 +1,5 @@
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/bin/Release/kens_lib.dll
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/obj/Release/kens_lib.dll
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/bin/Release/nunit.framework.dll
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/bin/Release/log4net.dll

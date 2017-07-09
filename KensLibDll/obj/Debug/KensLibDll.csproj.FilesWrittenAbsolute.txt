@@ -1,0 +1,9 @@
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/bin/Debug/nunit.framework.dll
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/bin/Debug/log4net.dll
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/bin/Debug/kens_lib.dll.mdb
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/bin/Debug/kens_lib.dll
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/obj/Debug/kens_lib.dll
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/obj/Debug/kens_lib.dll.mdb
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/bin/Debug/kens_lib.pdb
+/Users/kenshaw/Dropbox/03. Code/2014/kens_lib/KensLibDll/obj/Debug/kens_lib.pdb

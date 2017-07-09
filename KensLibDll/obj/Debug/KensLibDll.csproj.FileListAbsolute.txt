@@ -1,0 +1,27 @@
+C:\Users\Microsoft\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\kens_lib.dll
+C:\Users\Microsoft\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\kens_lib.pdb
+C:\Users\Microsoft\Dropbox\03. Code\2014\kens_lib\KensLibDll\obj\Debug\kens_lib.dll
+C:\Users\Microsoft\Dropbox\03. Code\2014\kens_lib\KensLibDll\obj\Debug\kens_lib.pdb
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\kens_lib.dll
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\kens_lib.pdb
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\log4net.dll
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\nunit.framework.dll
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\log4net.xml
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\nunit.framework.xml
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\obj\Debug\KensLibDll.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\obj\Debug\kens_lib.dll
+\\vmware-host\Shared Folders\Dropbox\03. Code\2014\kens_lib\KensLibDll\obj\Debug\kens_lib.pdb
+G:\Dropbox\kens_lib\KensLibDll\bin\Debug\kens_lib.dll
+G:\Dropbox\kens_lib\KensLibDll\bin\Debug\kens_lib.pdb
+G:\Dropbox\kens_lib\KensLibDll\bin\Debug\log4net.dll
+G:\Dropbox\kens_lib\KensLibDll\bin\Debug\nunit.framework.dll
+G:\Dropbox\kens_lib\KensLibDll\bin\Debug\log4net.xml
+G:\Dropbox\kens_lib\KensLibDll\bin\Debug\nunit.framework.xml
+G:\Dropbox\kens_lib\KensLibDll\obj\Debug\KensLibDll.csprojResolveAssemblyReference.cache
+G:\Dropbox\kens_lib\KensLibDll\obj\Debug\kens_lib.dll
+G:\Dropbox\kens_lib\KensLibDll\obj\Debug\kens_lib.pdb
+G:\Dropbox\03. Code\2017\KensLibDll\bin\Debug\kens_lib.dll
+G:\Dropbox\03. Code\2017\KensLibDll\bin\Debug\kens_lib.pdb
+G:\Dropbox\03. Code\2017\KensLibDll\obj\Debug\KensLibDll.csprojResolveAssemblyReference.cache
+G:\Dropbox\03. Code\2017\KensLibDll\obj\Debug\kens_lib.dll
+G:\Dropbox\03. Code\2017\KensLibDll\obj\Debug\kens_lib.pdb

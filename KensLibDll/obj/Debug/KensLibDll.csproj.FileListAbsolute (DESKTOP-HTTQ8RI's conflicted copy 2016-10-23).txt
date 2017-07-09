@@ -1,0 +1,8 @@
+C:\Users\kenshaw\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\kens_lib.dll
+C:\Users\kenshaw\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\kens_lib.pdb
+C:\Users\kenshaw\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\log4net.dll
+C:\Users\kenshaw\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\log4net.xml
+C:\Users\kenshaw\Dropbox\03. Code\2014\kens_lib\KensLibDll\bin\Debug\nunit.framework.xml
+C:\Users\kenshaw\Dropbox\03. Code\2014\kens_lib\KensLibDll\obj\Debug\KensLibDll.csprojResolveAssemblyReference.cache
+C:\Users\kenshaw\Dropbox\03. Code\2014\kens_lib\KensLibDll\obj\Debug\kens_lib.dll
+C:\Users\kenshaw\Dropbox\03. Code\2014\kens_lib\KensLibDll\obj\Debug\kens_lib.pdb
