@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KensConsoleApp", "KensConso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KensLibDll", "KensLibDll\KensLibDll.csproj", "{BC3A957C-FC67-4F24-B195-F61344628CB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KensWebApi", "KensWebApi\KensWebApi.csproj", "{A62A128D-B9AD-4D34-A25A-EFA1276C8260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KensWebApi.Tests", "KensWebApi.Tests\KensWebApi.Tests.csproj", "{63850774-58FB-4CAB-B7F8-EA970A134047}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BC3A957C-FC67-4F24-B195-F61344628CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC3A957C-FC67-4F24-B195-F61344628CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC3A957C-FC67-4F24-B195-F61344628CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62A128D-B9AD-4D34-A25A-EFA1276C8260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62A128D-B9AD-4D34-A25A-EFA1276C8260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62A128D-B9AD-4D34-A25A-EFA1276C8260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62A128D-B9AD-4D34-A25A-EFA1276C8260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63850774-58FB-4CAB-B7F8-EA970A134047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63850774-58FB-4CAB-B7F8-EA970A134047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63850774-58FB-4CAB-B7F8-EA970A134047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63850774-58FB-4CAB-B7F8-EA970A134047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
