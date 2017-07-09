@@ -29,7 +29,7 @@ namespace KensLibDll
 		/// this method is for logging to whatever the app is using for logging defaults
 		/// </summary>
 		/// <param name="s">S.</param>
-		public void l (string s){
+		public void KSLog (string s){
 			p (s);
 		}
 	}

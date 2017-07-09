@@ -25,3 +25,12 @@ G:\Dropbox\03. Code\2017\KensLibDll\bin\Debug\kens_lib.pdb
 G:\Dropbox\03. Code\2017\KensLibDll\obj\Debug\KensLibDll.csprojResolveAssemblyReference.cache
 G:\Dropbox\03. Code\2017\KensLibDll\obj\Debug\kens_lib.dll
 G:\Dropbox\03. Code\2017\KensLibDll\obj\Debug\kens_lib.pdb
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\bin\Debug\kens_lib.dll
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\bin\Debug\kens_lib.pdb
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\bin\Debug\log4net.dll
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\bin\Debug\nunit.framework.dll
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\bin\Debug\log4net.xml
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\bin\Debug\nunit.framework.xml
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\obj\Debug\KensLibDll.csprojResolveAssemblyReference.cache
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\obj\Debug\kens_lib.dll
+G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\obj\Debug\kens_lib.pdb
