@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KensWebApi", "KensWebApi\Ke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KensWebApi.Tests", "KensWebApi.Tests\KensWebApi.Tests.csproj", "{63850774-58FB-4CAB-B7F8-EA970A134047}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyAspNetApp", "LegacyAspNetApp\LegacyAspNetApp.csproj", "{7B414511-26F9-448E-B6A4-DE42F36F1DDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{63850774-58FB-4CAB-B7F8-EA970A134047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63850774-58FB-4CAB-B7F8-EA970A134047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63850774-58FB-4CAB-B7F8-EA970A134047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B414511-26F9-448E-B6A4-DE42F36F1DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B414511-26F9-448E-B6A4-DE42F36F1DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B414511-26F9-448E-B6A4-DE42F36F1DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B414511-26F9-448E-B6A4-DE42F36F1DDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
