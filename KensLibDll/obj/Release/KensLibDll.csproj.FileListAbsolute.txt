@@ -7,3 +7,10 @@ G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\bin\Release\log4net.xml
 G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\bin\Release\nunit.framework.xml
 G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\obj\Release\KensLibDll.csprojResolveAssemblyReference.cache
 G:\Dropbox\03. Code\2017\kensTestProjects\KensLibDll\obj\Release\kens_lib.dll
+C:\Git\kensTestProjects\KensLibDll\bin\Release\kens_lib.dll
+C:\Git\kensTestProjects\KensLibDll\bin\Release\log4net.dll
+C:\Git\kensTestProjects\KensLibDll\bin\Release\nunit.framework.dll
+C:\Git\kensTestProjects\KensLibDll\bin\Release\log4net.xml
+C:\Git\kensTestProjects\KensLibDll\bin\Release\nunit.framework.xml
+C:\Git\kensTestProjects\KensLibDll\obj\Release\KensLibDll.csprojResolveAssemblyReference.cache
+C:\Git\kensTestProjects\KensLibDll\obj\Release\kens_lib.dll

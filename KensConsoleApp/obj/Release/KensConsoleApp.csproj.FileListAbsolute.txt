@@ -1,0 +1,11 @@
+C:\Git\kensTestProjects\KensConsoleApp\bin\Release\KensConsoleApp.exe.config
+C:\Git\kensTestProjects\KensConsoleApp\bin\Release\KensConsoleApp.exe
+C:\Git\kensTestProjects\KensConsoleApp\bin\Release\KensConsoleApp.pdb
+C:\Git\kensTestProjects\KensConsoleApp\bin\Release\kens_lib.dll
+C:\Git\kensTestProjects\KensConsoleApp\bin\Release\log4net.dll
+C:\Git\kensTestProjects\KensConsoleApp\bin\Release\Newtonsoft.Json.dll
+C:\Git\kensTestProjects\KensConsoleApp\bin\Release\log4net.xml
+C:\Git\kensTestProjects\KensConsoleApp\bin\Release\Newtonsoft.Json.xml
+C:\Git\kensTestProjects\KensConsoleApp\obj\Release\KensConsoleApp.csprojResolveAssemblyReference.cache
+C:\Git\kensTestProjects\KensConsoleApp\obj\Release\KensConsoleApp.exe
+C:\Git\kensTestProjects\KensConsoleApp\obj\Release\KensConsoleApp.pdb
